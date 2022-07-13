@@ -28,5 +28,21 @@ npm run dev
 npm run build
 ```
 
+```sh
+npm install -g firebase-tools
+```
+
+```sh
+firebase login
+```
+
+```sh
+firebase init
+```
+
+```sh
+firebase deploy
+```
+
 ## Host
 2. Hosting URL: https://noteballs-31cec.web.app
